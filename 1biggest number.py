@@ -7,4 +7,3 @@ elif number2 > number1:
     print(f"{number2} is bigger than {number1}")
 elif number2 == number1:
     print("The numbers are equal")
-
